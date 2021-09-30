@@ -14,4 +14,4 @@ Errors are inevitable both in life and in the digital world. Errors occur here a
 - Learning about Humming code and error correcting.
 
 ## Link
-[Error Correcting Encoder-Decode](https://hyperskill.org/projects/58?track=12)
+[Error Correcting Encoder-Decoder](https://hyperskill.org/projects/58?track=12)
